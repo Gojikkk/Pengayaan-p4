@@ -31,6 +31,7 @@ const AddTodoForm = () => {
           borderWidth: 1,
           padding: 8,
           marginBottom: 10,
+          marginTop: 40,
         }}
       />
       <Button title="Tambah" onPress={handleAdd} />
